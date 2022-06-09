@@ -1,0 +1,8 @@
+{
+	"name": "glibc",
+	"version": "2.35",
+	"architecture": "amd64",
+	"maintainer": "SandwichOS core-packages",
+	"dependencies": [],
+	"description": "GNU C Library"
+}
