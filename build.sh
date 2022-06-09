@@ -59,4 +59,6 @@ cd $SANDWICH/source/decompressed/busybox-$BUSYBOX_VERSION
 
 make defconfig && make -j8 && make install && cp $SANDWICH_METADATA/busybox.json _install/metadata.json && $SLICE_BINARY create _install $SANDWICH_OUTPUT/busybox.slicepkg
 
+rm -r _install
+
 cd $ORIGINAL_PATH
