@@ -3,6 +3,6 @@
 	"version": "9.1",
 	"architecture": "amd64",
 	"maintainer": "SandwichOS core-packages",
-	"dependencies": [],
+	"dependencies": ["glibc"],
 	"description": "GNU core utilities"
 }
