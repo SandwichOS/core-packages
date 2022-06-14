@@ -2,7 +2,7 @@
 	"name": "glibc",
 	"version": "2.35",
 	"architecture": "amd64",
-	"maintainer": "SandwichOS core-packages",
+	"maintainer": "SandwichOS Core Team",
 	"dependencies": [],
 	"description": "GNU C Library"
 }

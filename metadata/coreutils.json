@@ -2,7 +2,7 @@
 	"name": "coreutils",
 	"version": "9.1",
 	"architecture": "amd64",
-	"maintainer": "SandwichOS core-packages",
+	"maintainer": "SandwichOS Core Team",
 	"dependencies": ["glibc"],
 	"description": "GNU core utilities"
 }
